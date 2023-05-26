@@ -1,0 +1,10 @@
+C:\Users\dell\Documents\GitHub\Hilos\Practica Hilos\bin\Debug\Practica Hilos.exe.config
+C:\Users\dell\Documents\GitHub\Hilos\Practica Hilos\bin\Debug\Practica Hilos.exe
+C:\Users\dell\Documents\GitHub\Hilos\Practica Hilos\bin\Debug\Practica Hilos.pdb
+C:\Users\dell\Documents\GitHub\Hilos\Practica Hilos\obj\Debug\Practica Hilos.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\GitHub\Hilos\Practica Hilos\obj\Debug\Practica_Hilos.Properties.Resources.resources
+C:\Users\dell\Documents\GitHub\Hilos\Practica Hilos\obj\Debug\Practica Hilos.csproj.GenerateResource.cache
+C:\Users\dell\Documents\GitHub\Hilos\Practica Hilos\obj\Debug\Practica Hilos.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\GitHub\Hilos\Practica Hilos\obj\Debug\Practica Hilos.exe
+C:\Users\dell\Documents\GitHub\Hilos\Practica Hilos\obj\Debug\Practica Hilos.pdb
+C:\Users\dell\Documents\GitHub\Hilos\Practica Hilos\obj\Debug\Practica_Hilos.CandyRush.resources
