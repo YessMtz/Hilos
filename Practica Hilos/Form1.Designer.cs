@@ -72,7 +72,7 @@ namespace Practica_Hilos
             // 
             this.exit.BackColor = System.Drawing.Color.Indigo;
             this.exit.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.exit.Font = new System.Drawing.Font("Cooper Black", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.exit.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.exit.ForeColor = System.Drawing.SystemColors.Control;
             this.exit.Location = new System.Drawing.Point(681, 26);
             this.exit.Name = "exit";
@@ -86,7 +86,7 @@ namespace Practica_Hilos
             // 
             this.reset.BackColor = System.Drawing.Color.Indigo;
             this.reset.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.reset.Font = new System.Drawing.Font("Cooper Black", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.reset.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.reset.ForeColor = System.Drawing.SystemColors.Control;
             this.reset.Location = new System.Drawing.Point(477, 26);
             this.reset.Name = "reset";
@@ -100,7 +100,7 @@ namespace Practica_Hilos
             // 
             this.pause.BackColor = System.Drawing.Color.Indigo;
             this.pause.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pause.Font = new System.Drawing.Font("Cooper Black", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.pause.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.pause.ForeColor = System.Drawing.SystemColors.Control;
             this.pause.Location = new System.Drawing.Point(283, 26);
             this.pause.Name = "pause";
@@ -114,7 +114,7 @@ namespace Practica_Hilos
             // 
             this.star.BackColor = System.Drawing.Color.Indigo;
             this.star.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.star.Font = new System.Drawing.Font("Cooper Black", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.star.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.star.ForeColor = System.Drawing.SystemColors.Control;
             this.star.Location = new System.Drawing.Point(90, 26);
             this.star.Name = "star";
@@ -136,7 +136,7 @@ namespace Practica_Hilos
             // 
             // auto1
             // 
-            this.auto1.BackColor = System.Drawing.Color.Transparent;
+            this.auto1.BackColor = System.Drawing.Color.Black;
             this.auto1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("auto1.BackgroundImage")));
             this.auto1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.auto1.Location = new System.Drawing.Point(0, 0);
@@ -156,7 +156,7 @@ namespace Practica_Hilos
             // 
             // auto2
             // 
-            this.auto2.BackColor = System.Drawing.Color.Transparent;
+            this.auto2.BackColor = System.Drawing.Color.Black;
             this.auto2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("auto2.BackgroundImage")));
             this.auto2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.auto2.Location = new System.Drawing.Point(0, 6);
@@ -176,7 +176,7 @@ namespace Practica_Hilos
             // 
             // auto3
             // 
-            this.auto3.BackColor = System.Drawing.Color.Transparent;
+            this.auto3.BackColor = System.Drawing.Color.Black;
             this.auto3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("auto3.BackgroundImage")));
             this.auto3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.auto3.Location = new System.Drawing.Point(0, 6);
@@ -196,7 +196,7 @@ namespace Practica_Hilos
             // 
             // auto4
             // 
-            this.auto4.BackColor = System.Drawing.Color.Transparent;
+            this.auto4.BackColor = System.Drawing.Color.Black;
             this.auto4.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("auto4.BackgroundImage")));
             this.auto4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.auto4.Location = new System.Drawing.Point(0, 6);
